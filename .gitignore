@@ -20,9 +20,6 @@ backups
 # Coverage directory used by tools like istanbul
 coverage
 
-# Not project directory
-marquee
-
 # nyc test coverage
 .nyc_output
 
