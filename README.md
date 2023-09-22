@@ -2,7 +2,8 @@
 
 ![image](review.gif)
 
-[DEMO](https://alekstar79.github.io/partnership)
+[LANDING](https://alekstar79.github.io/partnership/landing)
+[HOME](https://alekstar79.github.io/partnership/home)
 
 Landing page of the AWEX crypto platform.
 
