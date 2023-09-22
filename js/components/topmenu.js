@@ -62,10 +62,10 @@ export default class TopMenu extends HTMLElement
 
   setupTouchMenu()
   {
-    this.querySelectorAll('.menu__item--sub')
+    this.shadowRoot.querySelectorAll('.menu__item--sub')
       .forEach(this.setupMenuItem)
 
-    this.querySelector('.top-toolbar')
+    this.shadowRoot.querySelector('.top-toolbar')
       .classList.add('touch')
   }
 
